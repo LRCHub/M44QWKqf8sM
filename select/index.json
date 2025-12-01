@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "YOU GET TO BURNING",
+  "base_artist": "松澤由美",
+  "createdAt": "2025-12-01T22:10:40.564453Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YOU GET TO BURNING",
+      "artist": "松澤由美",
+      "has_synced": true,
+      "path": "select/01_YOU_GET_TO_BURNING_松澤由美.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YOU GET TO BURNING",
+      "artist": "angela",
+      "has_synced": true,
+      "path": "select/02_YOU_GET_TO_BURNING_angela.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Get to Burning",
+      "artist": "Martian Successor Nadesico",
+      "has_synced": false,
+      "path": "select/03_You_Get_to_Burning_Martian_Successor_Nadesico.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YOU GET TO BURNING",
+      "artist": "松澤由実",
+      "has_synced": false,
+      "path": "select/04_YOU_GET_TO_BURNING_松澤由実.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YOU GET TO BURNING",
+      "artist": "Yumi Matsuzawa",
+      "has_synced": true,
+      "path": "select/05_YOU_GET_TO_BURNING_Yumi_Matsuzawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Get To Burning",
+      "artist": "Matsuzawa Yumi",
+      "has_synced": false,
+      "path": "select/06_You_Get_To_Burning_Matsuzawa_Yumi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "YOU GET TO BURNING (OFF VOCAL VERSION)",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/07_YOU_GET_TO_BURNING_(OFF_VOCAL_VERSION)_angela.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "YOU GET TO BURNING",
+      "artist": "松澤由美",
+      "has_synced": false,
+      "path": "select/08_YOU_GET_TO_BURNING_松澤由美.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "YOU GET TO BURNING (Martian Successor Nadesico)",
+      "artist": "Yoko Ishida",
+      "has_synced": false,
+      "path": "select/09_YOU_GET_TO_BURNING_(Martian_Successor_Nadesico)_Yoko_Ishida.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "YOU GET TO BURNING (25th anniversary Ver.)",
+      "artist": "Yumi Matsuzawa",
+      "has_synced": false,
+      "path": "select/10_YOU_GET_TO_BURNING_(25th_anniversary_Ver.)_Yumi_Matsuzawa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOU GET TO BURNING",
+      "artist": "松澤 由美",
+      "has_synced": false,
+      "path": "select/pl_01_YOU_GET_TO_BURNING_松澤_由美.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "You Get To Burning",
+      "artist": "松澤 由美",
+      "has_synced": false,
+      "path": "select/pl_02_You_Get_To_Burning_松澤_由美.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "YOU GET TO BURNING",
+      "artist": "松澤 由美",
+      "has_synced": false,
+      "path": "select/pl_03_YOU_GET_TO_BURNING_松澤_由美.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "You Get To Burning",
+      "artist": "松澤 由美",
+      "has_synced": false,
+      "path": "select/pl_04_You_Get_To_Burning_松澤_由美.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "You Get To Burning",
+      "artist": "松澤 由美",
+      "has_synced": false,
+      "path": "select/pl_05_You_Get_To_Burning_松澤_由美.txt"
+    }
+  ]
+}
